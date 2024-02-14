@@ -4,6 +4,8 @@ Created on Tue Nov 21 17:28:48 2023
 
 @author: Marcelo
 """
+################IMPORTANT##################
+######### DONT USE THIS FILE ##############
 # this code gives the correlation values of the chosen variables
 import pandas as pd
 
